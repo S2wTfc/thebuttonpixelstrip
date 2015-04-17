@@ -26,3 +26,4 @@ python example.py
 to do
 
 - print and send correct deciseconds over serial
+- format this shitty readme
