@@ -7,7 +7,7 @@ Works with Python 2.7 and Raspbian (Wheezy) on Raspberry Pi B+.
 Arduino connected via USB.
 
 
-Rasp Pi preperations:
+## Rasp Pi preperations:
 
 sudo apt-get install python-serial
 
@@ -23,7 +23,7 @@ python example.py
 
 
 
-to do
+## to do
 
 - print and send correct deciseconds over serial
 - format this shitty readme
