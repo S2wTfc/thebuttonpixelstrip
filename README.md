@@ -9,12 +9,12 @@ Arduino connected via USB.
 
 ### how to install and run on Rasp Pi:
 
--sudo apt-get install python-serial
--[download https://bootstrap.pypa.io/get-pip.py ]
--sudo python get-pip.py
--sudo pip install enum34
--sudo pip install websocket-client
--python example.py
+- sudo apt-get install python-serial
+- [download https://bootstrap.pypa.io/get-pip.py ]
+- sudo python get-pip.py
+- sudo pip install enum34
+- sudo pip install websocket-client
+- python example.py
 
 ### Arduino/Neopixel: 
 
@@ -27,5 +27,4 @@ Arduino connected via USB.
 ### to do
 
 - print and send correct deciseconds over serial
-- format and proofread this readme
 - show last / lowest value
